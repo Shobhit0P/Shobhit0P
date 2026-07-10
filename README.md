@@ -55,7 +55,7 @@ A fitness web application.
 
 **Frontend**
 
-![Skills](https://skillicons.dev/icons?i=html,css,Javascript)
+![Skills](https://skillicons.dev/icons?i=html,css,javascript)
 
 **Databases**
 
