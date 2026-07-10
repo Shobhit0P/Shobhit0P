@@ -39,8 +39,8 @@ A fitness web application.
 
 | Layer      | Technology                     |
 |------------|---------------------------------|
-| Frontend   | HTML, CSS                       |
-| Core Logic | Python                          |
+| Frontend   | HTML, CSS, Javascript                   |
+| Core Logic | Python, Data Structure, System Design                        |
 | Data       | MySQL                           |
 
 🔗 [Live](http://fitgurubyshobhit.netlify.app) &nbsp;|&nbsp; 💻 [Code](https://github.com/Shobhit0P/Fitguru)
@@ -55,7 +55,7 @@ A fitness web application.
 
 **Frontend**
 
-![Skills](https://skillicons.dev/icons?i=html,css)
+![Skills](https://skillicons.dev/icons?i=html,css,Javascript)
 
 **Databases**
 
