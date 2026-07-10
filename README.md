@@ -24,7 +24,7 @@ const shobhit = {
   ],
   launchedProjects: ["Fitguru"],
   status: "Actively learning & building",
-  openTo: "Full-time opportunities as a Software / Web Developer"
+  openTo: "Full-time opportunities as a Software Developer"
 };
 ```
 
